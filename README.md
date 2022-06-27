@@ -9,4 +9,4 @@ To complete this assignment, create a code cell that:
 The source code is [here](https://github.com/ridhika123/Distributions-Through-Sampling/blob/main/UnderstandingDistributionsThroughSampling.ipynb).
 
 ## Final Output
-Final paper can be found [here](https://github.com/ridhika123/Distributions-Through-Sampling/blob/main/DistributionPlots.mp4).
+Final visualization can be found [here](https://github.com/ridhika123/Distributions-Through-Sampling/blob/main/DistributionPlots.mp4).
